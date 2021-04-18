@@ -1,7 +1,7 @@
 [package]
 version = "0.1.0"
 name = "website"
-repository = "https://github.com/seed-rs/seed-quickstart"
+repository = "https://github.com/quezlatch/rust-play"
 authors = ["quezlatch <quezlatch@gmail.com>"]
 description = "App Description"
 categories = ["category"]

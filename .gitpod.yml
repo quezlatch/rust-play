@@ -11,6 +11,5 @@ vscode:
   extensions:
     - hbenl.vscode-test-explorer@2.19.6:66ef20d8117798aa03820a0c8cb7cc47
     - bungcip.better-toml@0.3.2:6c7597fbefd4d2edc80cd4ab9e510078
-    - swellaby.vscode-rust-test-adapter@0.11.0:502aabf9520389d7bd8015da9427cab7
     - belfz.search-crates-io@1.2.1:ec93d983ae7a19b46cad625e83ebefaf
     - serayuzgur.crates@0.5.9:08617e277e00de4acfa5df94efb7355e
