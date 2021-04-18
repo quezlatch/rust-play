@@ -6,3 +6,5 @@ echo trunk stuff
 cargo install --locked trunk
 cargo install wasm-bindgen-cli
 
+echo rust cross compiling
+rustup target add x86_64-unknown-linux-musl
