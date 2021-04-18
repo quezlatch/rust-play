@@ -8,12 +8,18 @@ embedded/systems type examples...
 
 As an extra, going cloud first...
 
+**seed** or **yew**? picked seed for no particular reason...
+
 ## Tooling
 
 [Gitpod](https://gitpod.io/)
 [Trunk](https://trunkrs.dev)
 [Cargo workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html)
 
+## Steps
+
+* create cargo workspaces
+* create website from seed quickstart
 
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)]
