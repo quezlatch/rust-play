@@ -10,9 +10,9 @@ As an extra, going cloud first...
 
 ## Tooling
 
-[Gitpod]()
-[Trunk]()
-[Cargo workspaces]()
+[Gitpod](https://gitpod.io/)
+[Trunk](https://trunkrs.dev)
+[Cargo workspaces](https://doc.rust-lang.org/book/ch14-03-cargo-workspaces.html)
 
 
 
