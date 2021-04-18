@@ -1,4 +1,5 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/quezlatch/rust-play)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)]
+
 
 # rust-play
 Rust mess about kind of thingy
@@ -8,8 +9,8 @@ Rust mess about kind of thingy
 ## Tooling
 
 [Trunk]()
+[Cargo workspaces]()
 
 
 
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/quezlatch/rust-play)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)]
