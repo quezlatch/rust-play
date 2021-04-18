@@ -20,6 +20,9 @@ As an extra, going cloud first...
 
 * create cargo workspaces
 * create website from seed quickstart
+* expose port and setup
+* start website on start with `cargo make ...`
+* a bit more gitpod configuring
 
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)]
